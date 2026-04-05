@@ -6,11 +6,8 @@ import {
   YAxis,
   CartesianGrid,
   Tooltip,
-  Legend,
-  ReferenceLine,
   ReferenceArea,
   ResponsiveContainer,
-  Scatter,
 } from "recharts";
 import axios from "axios";
 
